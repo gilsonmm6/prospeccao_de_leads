@@ -23,5 +23,6 @@ Para o desenvolvimento do projeto, utilizamos as seguintes bibliotecas e platafo
 - Seaborn e Matplotlib para visualização de dados
 - Scikit-learn (SKLearn) para construção e validação do modelo preditivo
 - Google Colab para desenvolvimento e execução do código
-- 
-  Com esse projeto, busquei fornecer insights relevantes sobre a relação entre investimento em mídia e retorno financeiro, auxiliando a empresa na otimização de seus gastos com publicidade.
+  
+  
+ Com esse projeto, busquei fornecer insights relevantes sobre a relação entre investimento em mídia e retorno financeiro, auxiliando a empresa na otimização de seus gastos com publicidade.
