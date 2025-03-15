@@ -1,4 +1,4 @@
-# prospeccao_de_leads
+# Prospeccao de leads
 
 Neste projeto, analisei os investimentos mensais de uma empresa em plataformas de publicidade, como YouTube, Facebook e jornais digitais, para a prospecção de leads (pessoas interessadas nos produtos da empresa). Para monitorar o desempenho desses investimentos, considerei tanto os gastos com publicidade quanto os retornos de vendas gerados.
 
